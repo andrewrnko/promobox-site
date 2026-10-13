@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://andrewrnko.github.io/promobox-site/sitemap.xml
